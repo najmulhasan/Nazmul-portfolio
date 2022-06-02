@@ -1,0 +1,44 @@
+body {
+    font-family: 'Lobster', cursive;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.span-color {
+    color: dodgerblue;
+}
+
+.paragraph {
+    text-align: justify;
+
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 100%;
+
+}
+
+.button-set {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.top-banner {
+    background-image: url(pictures/top-banner.png);
+}
